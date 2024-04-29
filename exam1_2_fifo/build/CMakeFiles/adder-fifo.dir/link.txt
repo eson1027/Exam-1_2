@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -Wall CMakeFiles/adder-fifo.dir/main.cpp.o -o adder-fifo  -lsystemc 

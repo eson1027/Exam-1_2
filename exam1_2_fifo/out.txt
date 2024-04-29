@@ -1,0 +1,266 @@
+        time         sum
+        time           a
+         0 sInput data: 0
+        1 nsInput data: 0
+        2 nsInput data: 0
+        3 nsInput data: 0
+        4 nsInput data: .4921875
+        5 nsInput data: .521484375
+        6 nsInput data: .560546875
+        7 nsInput data: .56640625
+        8 nsInput data: .591796875
+        9 nsInput data: .623046875
+       10 nsInput data: .650390625
+       11 nsInput data: .6796875
+       12 nsInput data: .6796875
+       13 nsInput data: .734375
+       14 nsInput data: .73828125
+       15 nsInput data: .74609375
+       16 nsInput data: .787109375
+       17 nsInput data: .798828125
+       17 ns      value 1:   .748046875
+       18 nsInput data: .787109375
+       19 nsInput data: .8359375
+       19 ns      value 2:  1.044921875
+       20 nsInput data: .85546875
+       21 nsInput data: .84765625
+       21 ns      value 3:     1.109375
+       22 nsInput data: .888671875
+       23 nsInput data: .912109375
+       23 ns      value 4:  1.142578125
+       24 nsInput data: .91796875
+       25 nsInput data: .939453125
+       25 ns      value 5:  1.189453125
+       26 nsInput data: .9453125
+       27 nsInput data: .962890625
+       27 ns      value 6:   1.24609375
+       28 nsInput data: .943359375
+       29 nsInput data: .9609375
+       29 ns      value 7:  1.298828125
+       30 nsInput data: .990234375
+       31 nsInput data: 1.00390625
+       31 ns      value 8:      1.34375
+       32 nsInput data: 1.001953125
+       33 ns      value 9:  1.388671875
+       34 nsInput data: .998046875
+       35 ns      value 10:  1.443359375
+       36 nsInput data: 1.0078125
+       37 ns      value 11:   1.48046875
+       38 nsInput data: 1.01171875
+       39 ns      value 12:   1.51171875
+       40 nsInput data: 1.017578125
+       41 ns      value 13:  1.560546875
+       42 nsInput data: .998046875
+       43 ns      value 14:    1.5859375
+       44 nsInput data: 1.001953125
+       45 ns      value 15:  1.607421875
+       46 nsInput data: .98828125
+       47 ns      value 16:      1.65625
+       48 nsInput data: .98828125
+       49 ns      value 17:  1.697265625
+       50 nsInput data: .974609375
+       51 ns      value 18:  1.720703125
+       52 nsInput data: .986328125
+       53 ns      value 19:   1.76953125
+       54 nsInput data: .970703125
+       55 ns      value 20:  1.814453125
+       56 nsInput data: .974609375
+       57 ns      value 21:      1.84375
+       58 nsInput data: .94140625
+       59 ns      value 22:   1.87109375
+       60 nsInput data: .935546875
+       61 ns      value 23:   1.89453125
+       62 nsInput data: .919921875
+       63 ns      value 24:  1.908203125
+       64 nsInput data: .900390625
+       65 ns      value 25:  1.904296875
+       66 nsInput data: .892578125
+       67 ns      value 26:    1.9296875
+       68 nsInput data: .900390625
+       69 ns      value 27:   1.97265625
+       70 nsInput data: .86328125
+       71 ns      value 28:     1.984375
+       72 nsInput data: .84765625
+       73 ns      value 29:     1.984375
+       74 nsInput data: .828125
+       75 ns      value 30:     1.984375
+       76 nsInput data: .80078125
+       77 ns      value 31:  1.986328125
+       78 nsInput data: .787109375
+       79 ns      value 32:  1.986328125
+       80 nsInput data: .787109375
+       81 ns      value 33:  1.986328125
+       82 nsInput data: .734375
+       83 ns      value 34:  1.986328125
+       84 nsInput data: .7109375
+       85 ns      value 35:  1.986328125
+       86 nsInput data: .703125
+       87 ns      value 36:  1.982421875
+       88 nsInput data: .677734375
+       89 ns      value 37:  1.970703125
+       90 nsInput data: .62890625
+       91 ns      value 38:   1.96484375
+       92 nsInput data: .642578125
+       93 ns      value 39:    1.9609375
+       94 nsInput data: .59765625
+       95 ns      value 40:  1.955078125
+       96 nsInput data: .583984375
+       97 ns      value 41:   1.93359375
+       98 nsInput data: .56640625
+       99 ns      value 42:  1.896484375
+      100 nsInput data: .548828125
+      101 ns      value 43:  1.865234375
+      102 nsInput data: .5
+      103 ns      value 44:    1.8359375
+      104 nsInput data: .486328125
+      105 ns      value 45:    1.8046875
+      106 nsInput data: .46484375
+      107 ns      value 46:   1.79296875
+      108 nsInput data: .443359375
+      109 ns      value 47:   1.77734375
+      110 nsInput data: .41015625
+      111 ns      value 48:   1.73828125
+      112 nsInput data: .39453125
+      113 ns      value 49:  1.693359375
+      114 nsInput data: .373046875
+      115 ns      value 50:   1.65234375
+      116 nsInput data: .353515625
+      117 ns      value 51:     1.609375
+      118 nsInput data: .30859375
+      119 ns      value 52:  1.583984375
+      120 nsInput data: .29296875
+      121 ns      value 53:     1.546875
+      122 nsInput data: .271484375
+      123 ns      value 54:  1.482421875
+      124 nsInput data: .259765625
+      125 ns      value 55:  1.431640625
+      126 nsInput data: .228515625
+      127 ns      value 56:  1.396484375
+      128 nsInput data: .21875
+      129 ns      value 57:  1.341796875
+      130 nsInput data: .197265625
+      131 ns      value 58:    1.2890625
+      132 nsInput data: .189453125
+      133 ns      value 59:  1.251953125
+      134 nsInput data: .15234375
+      135 ns      value 60:    1.2109375
+      136 nsInput data: .130859375
+      137 ns      value 61:   1.16796875
+      138 nsInput data: .1171875
+      139 ns      value 62:    1.1328125
+      140 nsInput data: .091796875
+      141 ns      value 63:   1.08203125
+      142 nsInput data: .1015625
+      143 ns      value 64:   1.01953125
+      144 nsInput data: .068359375
+      145 ns      value 65:       .96875
+      146 nsInput data: .060546875
+      147 ns      value 66:   .927734375
+      148 nsInput data: .060546875
+      149 ns      value 67:     .8828125
+      150 nsInput data: .033203125
+      151 ns      value 68:   .830078125
+      152 nsInput data: .03125
+      153 ns      value 69:   .787109375
+      154 nsInput data: .03515625
+      155 ns      value 70:    .74609375
+      156 nsInput data: .025390625
+      157 ns      value 71:   .693359375
+      158 nsInput data: .017578125
+      159 ns      value 72:   .630859375
+      160 nsInput data: .00390625
+      161 ns      value 73:   .587890625
+      162 nsInput data: .0078125
+      163 ns      value 74:   .548828125
+      164 nsInput data: -.00390625
+      165 ns      value 75:   .509765625
+      166 nsInput data: -.00390625
+      167 ns      value 76:   .466796875
+      168 nsInput data: .001953125
+      169 ns      value 77:   .431640625
+      170 nsInput data: .01171875
+      171 ns      value 78:   .400390625
+      172 nsInput data: .009765625
+      173 ns      value 79:    .36328125
+      174 nsInput data: .037109375
+      175 ns      value 80:        .3125
+      176 nsInput data: .001953125
+      177 ns      value 81:   .263671875
+      178 nsInput data: .013671875
+      179 ns      value 82:   .232421875
+      180 nsInput data: .0546875
+      181 ns      value 83:   .201171875
+      182 nsInput data: .04296875
+      183 ns      value 84:    .18359375
+      184 nsInput data: .03515625
+      185 ns      value 85:   .150390625
+      186 nsInput data: .056640625
+      187 ns      value 86:         .125
+      188 nsInput data: .06640625
+      189 ns      value 87:   .107421875
+      190 nsInput data: .07421875
+      191 ns      value 88:    .08203125
+      192 nsInput data: .08984375
+      193 ns      value 89:   .068359375
+      194 nsInput data: .11328125
+      195 ns      value 90:   .064453125
+      196 nsInput data: .142578125
+      197 ns      value 91:   .052734375
+      198 nsInput data: .146484375
+      199 ns      value 92:   .033203125
+      200 nsInput data: .166015625
+      201 ns      value 93:   .017578125
+      202 nsInput data: .1640625
+      203 ns      value 94:     .0078125
+      204 nsInput data: .18359375
+      205 ns      value 95:  -.001953125
+      206 nsInput data: .203125
+      207 ns      value 96:   -.00390625
+      208 nsInput data: .212890625
+      209 ns      value 97:   .005859375
+      210 nsInput data: .271484375
+      211 ns      value 98:    .01953125
+      212 nsInput data: .263671875
+      213 ns      value 99:    .03515625
+      214 nsInput data: .298828125
+      215 ns      value 100:   .044921875
+      216 nsInput data: .310546875
+      217 ns      value 101:       .03125
+      218 nsInput data: .34765625
+      219 ns      value 102:    .04296875
+      220 nsInput data: .369140625
+      221 ns      value 103:    .08203125
+      222 nsInput data: .3984375
+      223 ns      value 104:   .087890625
+      224 nsInput data: .4296875
+      225 ns      value 105:    .08984375
+      226 nsInput data: .439453125
+      227 ns      value 106:    .10546875
+      228 nsInput data: .484375
+      229 ns      value 107:   .130859375
+      230 nsInput data: .501953125
+      231 ns      value 108:    .15234375
+      232 nsInput data: 0
+      233 ns      value 109:    .18359375
+      234 nsInput data: 0
+      235 ns      value 110:   .232421875
+      236 nsInput data: 0
+      237 ns      value 111:     .2734375
+      238 nsInput data: 0
+      239 ns      value 112:    .30078125
+      241 ns      value 113:     .3203125
+      243 ns      value 114:    .33984375
+      245 ns      value 115:   .365234375
+      247 ns      value 116:    .40234375
+      249 ns      value 117:   .451171875
+      251 ns      value 118:   .509765625
+      253 ns      value 119:   .548828125
+      255 ns      value 120:    .58984375
+      257 ns      value 121:     .6328125
+      259 ns      value 122:   .685546875
+      261 ns      value 123:     .7421875
+      263 ns      value 124:   .798828125
+      265 ns      value 125:   .849609375
+      267 ns      value 126:   .904296875
+      269 ns      value 127:    .94921875
+      271 ns      value 128:    .73828125
